@@ -9,7 +9,7 @@ Urban challenging terrain, indoor and outdoor, defense/military scenario, e.g. m
 * traversing large gap
 * crawling under obstacle
 
-(all a
+(all manouvers can have increased level of difficulty by carrying heavy object in the gripper)
 
 with manipulator force control
 * door opening
