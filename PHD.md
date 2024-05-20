@@ -24,7 +24,7 @@ with manipulator force control
 ## Modules
 
 * Perception: elevation map generation
-* Higher level navigation module - is planning intermediate poses (possibly with velocities)
+* Higher level navigation module - is planning manouver to use and/or intermediate poses (possibly with velocities)
 * Lover level locomotion module - is planning direct command to robot actuators
 
 ## Algorithms
