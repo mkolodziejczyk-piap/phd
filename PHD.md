@@ -9,15 +9,23 @@ Urban challenging terrain, indoor and outdoor, defense/military scenario, e.g. m
 * traversing large gap
 * crawling under obstacle
 
+(all a
+
 with manipulator force control
 * door opening
 * pushing object
 
+## Inputs
+
+* goal pose (e.g. a pose selected on map)
+* current state estiamtion of robot
+* current map
+
 ## Modules
 
-* Perception: elevation map genration
-* Higher level navigation module
-* Lover level locomotion module
+* Perception: elevation map generation
+* Higher level navigation module - is planning intermediate poses (possibly with velocities)
+* Lover level locomotion module - is planning direct command to robot actuators
 
 ## Algorithms
 
