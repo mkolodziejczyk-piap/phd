@@ -13,6 +13,17 @@ with manipulator force control
 * door opening
 * pushing object
 
+## Method
+
+Reinforcement learning, in particular hierarchical reinforcement learning
+
+## Sim-to-real
+
+* building simulationn environment with ability to genereate diverse scenarios
+* training in simulation in large scale
+* building real environment (e.g. safety belts)
+* sim-to-real transfer
+
 ## PIAP robot: [PIAP gryf](https://www.antyterroryzm.com/portfolio-posts/robot-piap-gryf/)
 
 * [PIAP GRYF - extreme mobility](https://www.youtube.com/watch?v=rxESGyILEos)
@@ -29,6 +40,3 @@ with manipulator force control
 ![local planning](Screenshot%20from%202024-05-20%2010-16-01.png)
 
 ![complex obstacle](Screenshot%20from%202024-05-20%2009-13-40.png)
-
-* MPC
-* Reinforcement Learning
