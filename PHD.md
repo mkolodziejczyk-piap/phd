@@ -13,9 +13,16 @@ with manipulator force control
 * door opening
 * pushing object
 
-## Method
+## Modules
 
-Reinforcement learning, in particular hierarchical reinforcement learning
+* Perception: elevation map genration
+* Higher level navigation module
+* Lover level locomotion module
+
+## Algorithms
+
+* Reinforcement learning, in particular hierarchical reinforcement learning
+* Perception algorithms to generate map
 
 ## Sim-to-real
 
