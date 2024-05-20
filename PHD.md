@@ -48,6 +48,8 @@ with manipulator force control
 * [ANYmal Parkour: Learning Agile Navigation for Quadrupedal Robots](https://sites.google.com/leggedrobotics.com/agile-navigation)
 
 ![local planning](Screenshot%20from%202024-05-20%2010-13-36.png)
+![example trajectory](Screenshot%20from%202024-05-20%2011-58-12.png)
+
 
 
 * [Learning robust autonomous navigation and locomotion for wheeled-legged robots](https://junja94.github.io/learning_robust_autonomous_navigation_and_locomotion_for_wheeled_legged_robots/)
