@@ -17,7 +17,7 @@ with manipulator force control
 
 ## Inputs
 
-* goal pose (e.g. a pose selected on map)
+* goal pose (e.g. a pose selected on map / building plan)
 * current state estiamtion of robot
 * current map
 
