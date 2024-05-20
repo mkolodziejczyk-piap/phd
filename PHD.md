@@ -1,3 +1,7 @@
+# Environment
+
+Urban challenging terrain, indoor and outdoor, defense/military scenario, e.g. multi-floor buildings with stairs, warehouses, industrial spaces, etc. possibly damaged by exposion
+
 
 PIAP robot
 
