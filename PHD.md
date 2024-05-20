@@ -29,7 +29,7 @@ with manipulator force control
 
 ## Algorithms
 
-* Reinforcement learning, in particular hierarchical reinforcement learning
+* Reinforcement learning, in particular hierarchical reinforcement learning, possibly with expert demonstration
 * Perception algorithms to generate map
 
 ## Sim-to-real
