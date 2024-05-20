@@ -1,13 +1,23 @@
-# Environment
+## Environment
 
 Urban challenging terrain, indoor and outdoor, defense/military scenario, e.g. multi-floor buildings with stairs, warehouses, industrial spaces, etc. possibly damaged by exposion
 
+## Manouvers
 
-PIAP robot
+* moving up/down stairs
+* climbing up/down largre obstacle
+* traversing large gap
+* crawling under obstacle
+
+with manipulator force control
+* door opening
+* pushing object
+
+## PIAP robot: [PIAP gryf](https://www.antyterroryzm.com/portfolio-posts/robot-piap-gryf/)
 
 * [PIAP GRYF - extreme mobility](https://www.youtube.com/watch?v=rxESGyILEos)
 
-* [PIAP gryf](https://www.antyterroryzm.com/portfolio-posts/robot-piap-gryf/)
+## Examples from [Robotic Systems Lab - Legged Robotics at ETH Zürich](https://rsl.ethz.ch/)
 
 * [ANYmal Parkour: Learning Agile Navigation for Quadrupedal Robots](https://sites.google.com/leggedrobotics.com/agile-navigation)
 
